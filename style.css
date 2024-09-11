@@ -2,4 +2,5 @@
 
 body{
     background: radial-gradient(circle, #1E201E 10%, #021526 100%);
+    margin: 0;
 }
