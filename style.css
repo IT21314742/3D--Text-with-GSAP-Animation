@@ -23,5 +23,5 @@ body{
     animation: rotation 5s linear infinite;
     transform: rotateX(-20deg) rotateY(45deg);
     transform-style: preserve-3d;
-    
+    perspective: ;
 }
