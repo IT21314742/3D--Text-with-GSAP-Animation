@@ -22,5 +22,5 @@ body{
     letter-spacing: -50px;
     animation: rotation 5s linear infinite;
     color: #fff;
-    transform: ;
+    transform: rotate();
 }
