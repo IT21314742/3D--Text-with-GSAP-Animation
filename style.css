@@ -21,6 +21,5 @@ body{
     background-color: transparent;
     letter-spacing: -50px;
     animation: rotation 5s linear infinite;
-
     transform: rotateX(-20deg) rotateY(45deg);
 }
