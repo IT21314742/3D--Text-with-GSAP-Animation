@@ -40,3 +40,13 @@ body{
     height: 625px;
     cursor: pointer;
 }
+
+.circle {
+    width: 600px;
+    height: 600px;
+    background-color: red;
+    cursor: pointer;
+    position: absolute;
+    top: 10%;
+    left: 40px;
+}
