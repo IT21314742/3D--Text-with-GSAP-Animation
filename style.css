@@ -24,4 +24,12 @@ body{
     transform: rotateX(-20deg) rotateY(45deg);
     transform-style: preserve-3d;
     perspective: 1400px;
+    /* background-color: red; */
+}
+
+.shadow {
+    position: absolute;
+    top: 0;
+    left: 30;
+    color: #16bffd;
 }
