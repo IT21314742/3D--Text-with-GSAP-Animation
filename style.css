@@ -34,4 +34,6 @@ body{
     left: 30;
     color: #16bffd;
     transform: translateY(150px);
+    z-index: -3;
+    -webkit-text-stroke: 5px #edf2f4;
 }
