@@ -25,6 +25,7 @@ body{
     transform-style: preserve-3d;
     perspective: 1400px;
     /* background-color: red; */
+    letter-spacing: 3px;
 }
 
 .shadow {
@@ -32,4 +33,5 @@ body{
     top: 0;
     left: 30;
     color: #16bffd;
+    transform: translateY(150px);
 }
