@@ -49,4 +49,7 @@ body{
     position: absolute;
     top: 10%;
     left: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
